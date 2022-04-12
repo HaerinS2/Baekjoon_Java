@@ -5,7 +5,7 @@ public class Baekjoon1546_Average {
     public static void main(String[] args) throws IOException {
         BufferedReader r=new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter w=new BufferedWriter(new OutputStreamWriter(System.out));
-        StringTokenizer s = null;
+        StringTokenizer s=null;
         int n=Integer.parseInt(r.readLine());
         float[] a=new float[n];
         s = new StringTokenizer(r.readLine());
