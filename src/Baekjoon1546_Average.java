@@ -4,8 +4,7 @@ import java.util.StringTokenizer;
 public class Baekjoon1546_Average {
     public static void main(String[] args) throws IOException {
         BufferedReader r=new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter w=new BufferedWriter(new OutputStreamWriter(System.out));
-        StringTokenizer s=null;
+        StringTokenizer s;
         int n=Integer.parseInt(r.readLine());
         float[] a=new float[n];
         s = new StringTokenizer(r.readLine());
@@ -19,7 +18,7 @@ public class Baekjoon1546_Average {
                     m = a[j];
                 }}}
         for(int i=0; i<n; i++){
-            a[i]=(float)a[i]/m*100;
+            a[i]=a[i]/m*100;
             sum+=a[i];
         }
         res=sum/n;
