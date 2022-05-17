@@ -2,69 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79b9797f-4e6f-421c-9e7f-dbe8ec497bf7" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Baekjoon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon10171_cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon10172_dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon10718_WeloveKriii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon10817_ThreeNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon10951_APlusB4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon11654_ASCII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon11718_print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon11719_print2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon11720_NumsSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon11721_Cutby10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon1237_JeongKbuckK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon1546_Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon15596_WholeNumSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon1924_2007year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon2440_stars3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon2441_stars4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon25083_sprout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon2555_Birthday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon2557_HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon2558_APlusB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon2675_StringLoof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon2839_Sugar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon2920_scale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon3046_R2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon3052_Remainder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon4344_AboveAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon5337_Welcome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon5338_MicroSoft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon7287_registration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon8958_OX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon1550_16Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baekjoon/Baekjoon2752_threeNumsArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon10171_cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon10172_dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon10718_WeloveKriii.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon10817_ThreeNums.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon10951_APlusB4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon11654_ASCII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon11718_print.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon11719_print2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon11720_NumsSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon11721_Cutby10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon1237_JeongKbuckK.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon1546_Average.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon15596_WholeNumSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon1924_2007year.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2440_stars3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2441_stars4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon25083_sprout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2555_Birthday.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2557_HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2558_APlusB2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2675_StringLoof.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2839_Sugar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon2920_scale.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon3052_Remainder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon4344_AboveAverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon5337_Welcome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon5338_MicroSoft.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon7287_registration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon8958_OX.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +53,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="애플리케이션.Baekjoon3046_R2 (1)">
+  <component name="RunManager" selected="애플리케이션.Baekjoon2752_threeNumsArray">
     <configuration name="Baekjoon1546_Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon1546_Average" />
       <module name="Baekjoon" />
@@ -120,8 +61,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon3046_R2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.Baekjoon3046_R2" />
+    <configuration name="Baekjoon1550_16Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.Baekjoon1550_16Binary" />
+      <module name="Baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon2752_threeNumsArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.Baekjoon2752_threeNumsArray" />
       <module name="Baekjoon" />
       <extension name="coverage">
         <pattern>
@@ -140,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Baekjoon3046_R2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.Baekjoon3046_R2" />
+      <module name="Baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Baekjoon3052_Remainder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon3052_Remainder" />
       <module name="Baekjoon" />
@@ -149,10 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Baekjoon2752_threeNumsArray" />
+        <item itemvalue="애플리케이션.Baekjoon1550_16Binary" />
         <item itemvalue="애플리케이션.Baekjoon3046_R2 (1)" />
         <item itemvalue="애플리케이션.Baekjoon3046_R2" />
         <item itemvalue="애플리케이션.Baekjoon1546_Average" />
-        <item itemvalue="애플리케이션.Baekjoon3052_Remainder" />
       </list>
     </recent_temporary>
   </component>
