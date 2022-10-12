@@ -16,7 +16,7 @@ public class Baekjoon11382 {
         BigInteger b = new BigInteger(st.nextToken());
         BigInteger c = new BigInteger(st.nextToken());
 
-        bw.write(String.valueOf((a.add(b).add(c))));
+        bw.write(String.valueOf(a.add(b).add(c)));
         bw.flush();
         bw.close();
     }
